@@ -1,0 +1,2 @@
+#!/bin/bash
+make -f SilvaChristian_S5CASA_Makefile.py
